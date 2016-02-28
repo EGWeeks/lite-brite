@@ -1,0 +1,25 @@
+body {
+	margin : 10px;
+	background : black;
+}
+
+table {
+	width: 100%;
+}
+
+tr {
+	border : none;
+	width : 100%;
+	height : 5px;
+}
+
+td {
+	max-width : 5px;
+	max-height : 5px;
+	margin : 0.25px;
+}
+
+.currentDiv {
+	width : 20px;
+	height : 20px;
+}
